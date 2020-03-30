@@ -1,0 +1,18 @@
+#game{
+    padding: 50px;
+}
+#levelWrapper{
+    display: none;
+}
+#question{
+    margin: 40px;
+}
+.q{
+background: #ddd;
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#finishWrapper{
+    display: none;
+}
